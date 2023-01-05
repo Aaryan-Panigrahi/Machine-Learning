@@ -1,2 +1,2 @@
 # Machine-Learning
-# This repository has some of the basic ML algorithms I have created from scratch
+# Hi. This repository has some basic ML algorithms I have created from scratch :)
